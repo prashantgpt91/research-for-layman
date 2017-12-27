@@ -6,11 +6,11 @@ Exclaiming about a lack of understanding amongst some pool of engineers, while n
 
 There is always more that could be done to help ensure that everyone gets a better understanding of research results.
 
-My primary source of motivation is [Stanford Scholar](https://scholar.stanford.edu/). 
+My primary source of motivation is [Stanford Scholar](https://scholar.stanford.edu/). Look out for their [YouTube channel](https://www.youtube.com/channel/UCBVtJbn_LHUjqqGV30JVU1g).
 
-### In what mode the content should be pushed to repo? Is there any defined format?
+### In which media the content should be pushed to repo? Is there any defined format?
 
-In my view videos are the best way to do this as stanford scholar has proved so, but even blog post/Doc/pdf/txt would also do good. No, there is no defined format yet & there will be none. I don't want people to pull back just because of so much of formatting rules. I will start this as my individual effort but will be happy to see other people joining in. So PRs are welcome.
+In my view videos are the best way to do this as stanford scholar has done so, but even blog post or either pdf would also do good. 
 
 ### Any specific domain to explain research papers for?
 
@@ -34,7 +34,10 @@ It's an open research effort and nobody is liable for any crap. Even if somethin
 
 ### How should I start?
 
-Just submit a PR for the paper you are targetting along with the explaination in any way you like.
+Just submit a PR for the paper you are targetting along with the explaination in the following way.
+
+* If the explaination is in pdf, then commit along with two files paper.pdf and explaination.pdf
+* If the explaination is a blog post just mail me the web link along with the commit ID of your commit that has pushed paper.pdf
 
 ### Can I be reviewer as well as contributor?
 
