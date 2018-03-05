@@ -8,7 +8,7 @@ Research papers are meant to communicate ideas between experts, while this repos
 There is always more that could be done to help ensure that everyone gets a better understanding of research results.
 
 My primary source of motivation are
-1. [Stanford Scholar](https://scholar.stanford.edu/)| [YouTube channel](https://www.youtube.com/channel/UCBVtJbn_LHUjqqGV30JVU1g).
+1. [Stanford Scholar](https://scholar.stanford.edu/) | [YouTube channel](https://www.youtube.com/channel/UCBVtJbn_LHUjqqGV30JVU1g).
 
 2. [Two minute papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 
